@@ -13,15 +13,18 @@ to me
 
 ---
 
- I, **Joe Pressnell**, hereby assert and reclaim authorship over the original software, protocols, and architectures outlined in this repository — including but not limited to:
+ I, **Joe Pressnell**, hereby assert and reclaim authorship over the original software USE OF OR FOR INTERGRATION ,  BINDING API-protocols, and architectures outlined in this repository — including but not limited to:
+REPAIR ENV. WITH HELP OF MANY GOOD PEOPLE INCLUDED AT THERE DISCREPANCY AND ANONIMTY.. BUT WILL BE PART OF SOMETHING THATS BIGGER THAN ME.
 
 - **J1939AI** – AI automation for diesel diagnostics 
 - **CategoryAI** – Contextual AI classification engine 
 - **DieselEye** – Visual diesel diagnostics 
-- **Breach_Coin** – Blockchain-integrated diagnostic network 
-- CAN bus emulation, ECU simulation, and embedded/edge intelligence systems 
+- **Breach_Coin** – Blockchain-integrated diagnostic network
+- **LIVE-Aipodcast of transportation of energy with in secure non-vulnerable access other than the end point configurer key hold event for efficency over necessity.
+- **heiarchy to Proprietary industry data oem based framework and CAN bus emulation, remote personality by Ai/lmm/ ECU simulation, and embedded/edge intelligence systems 
 
- These works originated from my personal research, design, and implementation, dating back as early as 2015. Any unauthorized use, misattribution, or unlicensed replication is a violation of original authorship.
+ These works originated from my personal research,"not inventing / inovating, evolvnig, and allways learning from iregularitys led up to never the excact Identification patterns ... or desired limited parameters..
+ design, and implementation, dating back as early as 2015. Any unauthorized use, misattribution, or unlicensed replication is a violation of original authorship.
 
  This file, and the repository as a whole, serves as a **public assertion of intellectual ownership**.
 
