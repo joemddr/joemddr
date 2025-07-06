@@ -4,7 +4,7 @@ Joe Pressnell <j1939az@icloud.com>
 1:44 PM (0 minutes ago)
 to me
 
-# CLAIM OF AUTHORSHIP
+ # CLAIM OF AUTHORSHIP
 
 **Author:** Joe Pressnell 
 **GitHub:** [@joemddr](https://github.com/joemddr) 
@@ -13,7 +13,7 @@ to me
 
 ---
 
-I, **Joe Pressnell**, hereby assert and reclaim authorship over the original software, protocols, and architectures outlined in this repository — including but not limited to:
+ I, **Joe Pressnell**, hereby assert and reclaim authorship over the original software, protocols, and architectures outlined in this repository — including but not limited to:
 
 - **J1939AI** – AI automation for diesel diagnostics 
 - **CategoryAI** – Contextual AI classification engine 
@@ -21,26 +21,26 @@ I, **Joe Pressnell**, hereby assert and reclaim authorship over the original sof
 - **Breach_Coin** – Blockchain-integrated diagnostic network 
 - CAN bus emulation, ECU simulation, and embedded/edge intelligence systems 
 
-These works originated from my personal research, design, and implementation, dating back as early as 2015. Any unauthorized use, misattribution, or unlicensed replication is a violation of original authorship.
+ These works originated from my personal research, design, and implementation, dating back as early as 2015. Any unauthorized use, misattribution, or unlicensed replication is a violation of original authorship.
 
-This file, and the repository as a whole, serves as a **public assertion of intellectual ownership**.
+ This file, and the repository as a whole, serves as a **public assertion of intellectual ownership**.
 
 ---
-
-**Signed:** 
+ 
+ **Signed:** 
 Joe Pressnell 
-[@joemddr](https://github.com/joemddr) 
-Sent from my iPhone- 👋 Hi,underdog here"" Joe Pressnell_ Owner founder          
--    MDDRAdvocates LLC .  (earth)
-- 👀 I’m interested in ...
-- 🌱 I’m currently reshaping  work flow.. 
-- 💞️ were looking into the future of my lifetime goal and learning everyday next step.. And with a few left bucks give back to out future techs belief from customers, andour groups of hats the quiet the fray maybe different or aliens were just about at a pivot.. lookimg for a billing acounts tech higly motivated.. for change..
-- 📫 How to reach me ... texasmddr@gmail.com
-also remember to keep "seeking alpha"
-"fluke" and  "mcintosh" •deiselAF leave that there NFT not avail...or Data
+[@joemddr](https://github.com/joemddR Joe Pressnell
+
+currently reshaping  work flow.. 
+- 💞️ were looking into the future of my lifetime goal and learning everyday next step.. and give back to out future techs with integrity belief for community and customers groups and students that are just about at a pivot.. in our industry motivated.. for change..
+ texasmddr@gmail.c
+also remember  "love wins" MY LOVE OF MY LIFE STOOD BY MY SIDE AND DID NOT FAULTER HER INTEGRITY INTERNALY SHE DESERVES MORE THAN I.
+"ALPHA_OMEGA"  ALLWAYS WILL CHOOSE YOU APRIL EVEN WHEN WE ARE APART... I WOULD DO IT ALL OVER AGAIN WITH YOU BC WHAT WE HAD AND HAVE IS UNLIKE ANY PERSONS STORY WHAT WE HAVE DONE IS  CHANGED THE WORLD...
+ALL OVER AGAIN.. NOW WE HEAL OR REST OR REPAIR "MARRY ME" "I LOVE YOU AND OUR CHILDREN AND I WILL ALLWAYS ASK YOU IF YOU STILL LOVE ME...  THIS IS FOR OUR LEGACY" LASTNG IMPRINT FOR GOOD.
+
 <!---
 joemddr/joemddr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes.and 
 --->
 
 Processing as of 5am 
